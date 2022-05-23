@@ -1,4 +1,4 @@
-# Ethereum-AuctionBidding
+# Ethereum-Auction-Bidding (Final Year Team Project )
 This project demonstrates how decentralised block chain can provide alternative for a physical bidding system.
 
 To run this project:-
